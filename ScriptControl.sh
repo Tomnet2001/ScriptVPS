@@ -15,8 +15,7 @@ apt-get install nano -y
 apt-get install apache2 -y
 
 #Instalar Squad3
-apt-get install squad3 -y
-
+apt-get install squid3 -y
 #Instalar Dropbear
 apt-get install dropbear -y
 
