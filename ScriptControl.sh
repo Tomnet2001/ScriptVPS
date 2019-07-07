@@ -4,7 +4,6 @@
 
 apt-get update -y
 apt-get upgrade -y
-
 clear
 echo "INSTALANDO SCRIPT CONTROLADOR"
 sleep 2s
